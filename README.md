@@ -14,3 +14,5 @@
 
 * [daniou](https://github.com/daniou)
 * [andyfratello](https://github.com/andyfratello)
+* [Marc Clapés]
+* [MarcDuch](https://github.com/MarcDuch)
